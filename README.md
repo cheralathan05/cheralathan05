@@ -24,11 +24,8 @@ I'm a passionate web developer focused on building real-world, scalable applicat
 
 🧠 Languages
 ![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts)
-
 🧰 Libraries & Tools
 ![Tools](https://skillicons.dev/icons?i=redux,tailwind,tensorflow)
-
-📊 GitHub Stats
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheralathan05&show_icons=true&theme=dark&hide_border=true)
 
