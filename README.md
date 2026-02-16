@@ -21,20 +21,15 @@ I'm a passionate web developer who loves building real-world applications.
 - 🚀 Focused on real projects
 - 🎯 Goal: Become a strong full-stack developer
 ## 🧠 Languages
-### 🧠 Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+## 🌸 Languages
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts)
 
-### 📚 Libraries & Tools
-![Redux](https://skillicons.dev/icons?i=redux)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+## 🧰 Libraries & Tools
+![Tools](https://skillicons.dev/icons?i=redux,tailwind,tensorflow)
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheralathan05&show_icons=true&theme=dark)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=cheralathan05&show_icons=true&theme=dark" />
 ## 🌐 Connect With Me
